@@ -6,6 +6,10 @@
     font-family: 'Inter', sans-serif;
 }
 
+body{
+    overflow: hidden;
+}
+
 .all-conteiners{
     display: flex;
 }
@@ -229,7 +233,7 @@
 
 @media (max-width: 1068px){
     body{
-        background-image: url(images/Background-League-of-Legends.png);
+        background-image: url(images/Background-League-of-Legends.jpg);
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover;
