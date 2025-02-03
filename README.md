@@ -36,12 +36,12 @@ Para visualizar o projeto localmente, siga os seguintes passos:
 
 1. Faça o clone deste repositório em sua máquina:
     ```bash
-    git clone https://github.com/seu-usuario/league-of-legends-login.git
+    git clone https://github.com/dwmedeirosDev/league-of-legends-login-JS.git
     ```
 
 2. Navegue até o diretório do projeto:
     ```bash
-    cd league-of-legends-login
+    cd league-of-legends-login-JS
     ```
 
 3. Abra o arquivo `index.html` em seu navegador de preferência.
