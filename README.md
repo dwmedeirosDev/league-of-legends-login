@@ -12,24 +12,6 @@ Este projeto consiste em uma página de login com tema *League of Legends*, com 
 
 ---
 
-### Estrutura do projeto 🏗️
-
-A página contém as seguintes seções principais:
-
-**Cabeçalho (Header)**: Exibe o logo da Riot Games com o favicon configurado e o título "League of Legends".
-
-**Área de Login (Login)**: Um formulário com campos para nome de usuário e senha, além de opções de login social (Facebook, Google, Apple).
-
-**Opção de Manter Login**: Checkbox para manter a sessão ativa.
-
-**Seta de Ação**: Um botão com uma seta, que atualmente está desabilitado.
-
-**Links de Ajuda e Criação de Conta**: Links adicionais para ajuda com login ou para criar uma nova conta.
-
-**Imagens de Fundo**: Imagens do *League of Legends* para criar uma ambientação temática.
-
----
-
 ### Como rodar o projeto 🚀
 
 Para visualizar o projeto localmente, siga os seguintes passos:
